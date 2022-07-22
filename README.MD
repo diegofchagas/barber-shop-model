@@ -1,4 +1,4 @@
-# BIKCRAFT
+# BARBER-SHOP_MODEL
 
 
 Projeto desenvolvido para treinar habilidades em HTML & CSS , utilizar boas praticas em html e css e ficou responsivo.
